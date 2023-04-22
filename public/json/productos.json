@@ -1,0 +1,180 @@
+[
+    {
+        "id":1,
+        "idCategoria":"FutureEvents",
+        "nombre": "Accept",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/accept.jpg"
+    },
+
+    {
+        "id":2,
+        "idCategoria":"PastGigs",
+        "nombre": "Angra",
+        "precio": 600,
+        "stock" : 15,
+        "img": "/img/angra.jpg"
+    },
+
+    {
+        "id":3,
+        "idCategoria":"FutureEvents",
+        "nombre": "Apocalyptica",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/apocalyptica.jpg"
+    },
+
+    {
+        "id":4,
+        "idCategoria":"TopRequested",
+        "nombre": "Cynic",
+        "precio": 1000,
+        "stock" : 15,
+        "img": "/img/cynicBeyondCreation.jpg"
+    },
+
+    {
+        "id":5,
+        "idCategoria":"FutureEvents",
+        "nombre": "Deicide",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/deicide.jpg"
+    },
+
+    {
+        "id":6,
+        "idCategoria":"FutureEvents",
+        "nombre": "Kreator",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/kreatorTestament.jpg"
+    },
+
+    {
+        "id":7,
+        "idCategoria":"FutureEvents",
+        "nombre": "M. Of Rock",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/mastersOfRock.jpg"
+    },
+
+    {
+        "id":8,
+        "idCategoria":"PastGigs",
+        "nombre": "Mayhem",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/mayhem.jpg"
+    },
+
+    {
+        "id":9,
+        "idCategoria":"PastGigs",
+        "nombre": "Motley Crue",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/motleyCrueDefLeppard.jpg"
+    },
+
+    {
+        "id":10,
+        "idCategoria":"FutureEvents",
+        "nombre": "Nile",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/nile.jpg"
+    },
+
+    {
+        "id":11,
+        "idCategoria":"FutureEvents",
+        "nombre": "Saxon",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/saxon.jpg"
+    },
+    {
+        "id":12,
+        "idCategoria":"PastGigs",
+        "nombre": "Sonata Arctica",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/sonataArctica.jpg"
+    },
+    {
+        "id":13,
+        "idCategoria":"TopRequested",
+        "nombre": "Stratovarius",
+        "precio": 1000,
+        "stock" : 15,
+        "img": "/img/stratovarius.jpg"
+    },
+
+    {
+        "id":14,
+        "idCategoria":"TopRequested",
+        "nombre": "Tesseract",
+        "precio": 1000,
+        "stock" : 15,
+        "img": "/img/tesseract.jpg"
+    },
+
+    {
+        "id":15,
+        "idCategoria":"FutureEvents",
+        "nombre": "The Winery Dogs",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/theWineryDogs.jpg"
+    },
+
+    {
+        "id":16,
+        "idCategoria":"TopRequested",
+        "nombre": "Dream Theater",
+        "precio": 1000,
+        "stock" : 15,
+        "img": "/img/dreamTheater.jpg"
+    },
+
+    {
+        "id":17,
+        "idCategoria":"TopRequested",
+        "nombre": "Slipnot",
+        "precio": 1000,
+        "stock" : 15,
+        "img": "/img/slipknot.jpg"
+    },
+
+    {
+        "id":18,
+        "idCategoria":"TopRequested",
+        "nombre": "Trivium",
+        "precio": 1000,
+        "stock" : 15,
+        "img": "/img/trivium.jpg"
+    },
+
+    {
+        "id":19,
+        "idCategoria":"FutureEvents",
+        "nombre": "The Rasmus",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/theRasmus.jpg"
+    },
+
+    {
+        "id":20,
+        "idCategoria":"PastGigs",
+        "nombre": "Cannibal Corpse",
+        "precio": 400,
+        "stock" : 15,
+        "img": "/img/cannibalCorpse.jpg"
+    }
+
+]
