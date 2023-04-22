@@ -1,6 +1,69 @@
 /* Body */
 body {
-    background-color:white;
+    background-color:black;
     font-family: 'Metal Mania', cursive;
     font-size: 22px;
+    margin:30px ;
+}
+
+h1 {
+    color: rgb(225, 76, 65);
+    font-size: 50px;
+    font-weight: 500;
+    margin: 0;
+    text-align: center;
+}
+
+/* Productos */
+#producto-contenedor {
+    border-radius: 1px;
+    display: flex;
+    display: grid;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+    margin: 60px auto;
+    max-width: 75rem;
+}
+
+.card {
+    background-color: rgba(223, 36, 36, 0.74);
+    border-radius: 15px;
+    box-shadow: whitesmoke 0px 5px 15px 0px;
+    max-width: 20%;
+    padding: 10px;
+    
+}
+
+.card-image .card-title {
+    color: white;
+    position: unset;
+    text-align: center;
+}
+
+.card-image .img {
+    border-radius: 10px !important;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.select {
+    border: 1px solid lightskyblue;
+    display: inline;
+    text-align: center;
+}
+.botoncarrito {
+    border: none;
+}
+
+.navbar-nav{
+    background-color:white;
+   
+}
+p{
+    color: white;
+}
+
+a{
+    color: white;
 }
